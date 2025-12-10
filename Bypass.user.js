@@ -61,9 +61,9 @@
 // @match        *://hehehub-acsu123.pythonanywhere.com/api/getkey?hwid=*
 // @match        *://key.thanhub.com/*
 // @match        *://lockr.so/thank-you*
-// @require      https://github.com/BaconButPro/ron12373/raw/Premium/Bypass-Userscript/style.js
+// @require      https://raw.githubusercontent.com/dmpatel1314-design/Galactic-Bypass-Premium/refs/heads/main/style.js
 // @require      https://cdn.rawgit.com/ricmoo/aes-js/e27b99df/index.js
-// @require      https://api2.adbypass.org/userscript/download/bypass.meta.js
+// @require      https://raw.githubusercontent.com/dmpatel1314-design/Galactic-Bypass-Premium/refs/heads/main/main.js
 // @grant        GM.xmlHttpRequest
 // @grant        GM_xmlhttpRequest
 // @grant        GM_setClipboard
